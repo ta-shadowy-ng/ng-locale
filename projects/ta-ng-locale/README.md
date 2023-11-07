@@ -1,6 +1,6 @@
 # TaNgLocale
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Code scaffolding
 
